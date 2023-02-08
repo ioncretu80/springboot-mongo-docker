@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: Book
+      host: icrmongodb
+      port: 27017
+
